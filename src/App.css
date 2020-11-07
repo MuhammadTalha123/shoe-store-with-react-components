@@ -12,6 +12,10 @@ code {
     monospace;
 }
 
+h1 {
+  text-align: center;
+}
+
 nav {
   background: #cfd8dc;
   padding: 10px;
