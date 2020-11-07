@@ -11,5 +11,5 @@ export const LaunchIndexPage = () => {
                 </Link>
             </li>
         ))}
-    </ul >
+    </ul>
 }
